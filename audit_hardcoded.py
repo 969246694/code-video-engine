@@ -15,7 +15,7 @@ import re
 import sys
 from pathlib import Path
 
-SRC = Path(r"F:\deepseek对话\ai-science-video\render.py")
+SRC = Path(__file__).resolve().parent / "render.py"
 src = SRC.read_text(encoding="utf-8")
 tree = ast.parse(src)
 CJK = re.compile(r"[\u4e00-\u9fff]")
