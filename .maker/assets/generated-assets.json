@@ -1,0 +1,56 @@
+{
+  "assets/image/ep2_bg_hook_20260929185814.png": {
+    "tool": "generate_image",
+    "name": "ep2_bg_hook",
+    "prompt": "深色抽象科技感编辑插画：一个发光的神经网络核心悬浮在深蓝近黑的虚空中，几圈极细的同心椭圆光环向外扩散，无数细小光点朝中心汇聚。构图下方三分之二保持大面积暗部留白，便于叠加文字。冷调青蓝为主色，极少量暖橙点缀。电影感打光，浅景深，细腻胶片颗粒，高级科技纪录片质感。不要任何文字、字母、数字、水印。",
+    "cdnUrl": "https://tapcode-sce.spark.xd.com/tapcode-images/e7d2eeb5-3133-498f-848a-c6c6b83f7c8c.png",
+    "previewUrl": "https://tapcode-sce.spark.xd.com/tapcode-images/e7d2eeb5-3133-498f-848a-c6c6b83f7c8c.png",
+    "localPath": "assets/image/ep2_bg_hook_20260929185814.png",
+    "createdAt": "2026-09-29T18:58:14.945Z"
+  },
+  "assets/image/ep2_bg_conf_20260929185916.png": {
+    "tool": "batch_generate_images",
+    "name": "ep2_bg_conf",
+    "prompt": "深色编辑插画：左右并排两张几乎一模一样的神经激活热力图，颜色分布极为相似；其中一张上方有一盏警示性的暖橙色指示灯亮起，视觉暗示无法区分两者。整体深蓝近黑背景，画面中部与下方保持低对比度暗区，便于叠加文字。极简几何风格，电影感打光，细腻颗粒质感，高级科技杂志插图。不要任何文字、字母、数字、水印。",
+    "cdnUrl": "https://tapcode-sce.spark.xd.com/tapcode-images/34b55acb-002d-4e9b-a9c9-e9aa6f08f4fd.png",
+    "previewUrl": "https://tapcode-sce.spark.xd.com/tapcode-images/34b55acb-002d-4e9b-a9c9-e9aa6f08f4fd.png",
+    "localPath": "assets/image/ep2_bg_conf_20260929185916.png",
+    "createdAt": "2026-09-29T18:59:16.887Z"
+  },
+  "assets/image/ep2_bg_fluent_20260929185916.png": {
+    "tool": "batch_generate_images",
+    "name": "ep2_bg_fluent",
+    "prompt": "深色抽象插画：一条由无数细小发光光斑组成的文字洪流，自画面左侧顺畅优雅地流向右侧，流动感极强、极其优美，却没有任何实处或根基；洪流表面泛着冷青色光泽。背景深蓝近黑，画面中部与下方保持大面积暗区，便于叠加文字。电影感景深，细腻胶片颗粒，高级科技纪录片氛围。不要任何可读文字、字母、数字、水印，光斑仅为抽象符号。",
+    "cdnUrl": "https://tapcode-sce.spark.xd.com/tapcode-images/88993a77-5dc8-409a-be1c-61adea0883bd.png",
+    "previewUrl": "https://tapcode-sce.spark.xd.com/tapcode-images/88993a77-5dc8-409a-be1c-61adea0883bd.png",
+    "localPath": "assets/image/ep2_bg_fluent_20260929185916.png",
+    "createdAt": "2026-09-29T18:59:16.887Z"
+  },
+  "assets/image/ep2_bg_gap_20260929185916.png": {
+    "tool": "batch_generate_images",
+    "name": "ep2_bg_gap",
+    "prompt": "深色数据可视化编辑插画：两条发光曲线从画面左下角同时起步，一条强劲攀升并稳定在高位（冷青色），另一条攀升到中途后开始分离并缓慢回落（暖橙色）；两条线在分叉处有一道竖直虚线标记。极简高级风格，深蓝近黑背景，极细网格刻度，画面中部保持低对比度，便于叠加文字。电影感质感，细腻颗粒，高级科技报告配图。不要任何文字、字母、数字、水印。",
+    "cdnUrl": "https://tapcode-sce.spark.xd.com/tapcode-images/f3c7feea-fbb3-4d45-aaf7-7247e5593753.png",
+    "previewUrl": "https://tapcode-sce.spark.xd.com/tapcode-images/f3c7feea-fbb3-4d45-aaf7-7247e5593753.png",
+    "localPath": "assets/image/ep2_bg_gap_20260929185916.png",
+    "createdAt": "2026-09-29T18:59:16.887Z"
+  },
+  "assets/image/ep2_bg_reason_20260929185916.png": {
+    "tool": "batch_generate_images",
+    "name": "ep2_bg_reason",
+    "prompt": "深色抽象插画：一条由发光节点与光带组成的水平决策链，从左向右延伸；每一个节点都向前延伸出三条分支，但所有分支都在继续前进，没有任何一个分支是终止或回头的；结构规则、机械、无法停下，视觉上带有轻微压迫感。冷青色光，背景深蓝近黑，画面中部与下方保持大面积暗区，便于叠加文字。电影感景深，细腻颗粒，高级科技纪录片。不要任何文字、字母、数字、水印。",
+    "cdnUrl": "https://tapcode-sce.spark.xd.com/tapcode-images/17a9bae3-f12a-4ca3-8ea7-63ef01e2009c.png",
+    "previewUrl": "https://tapcode-sce.spark.xd.com/tapcode-images/17a9bae3-f12a-4ca3-8ea7-63ef01e2009c.png",
+    "localPath": "assets/image/ep2_bg_reason_20260929185916.png",
+    "createdAt": "2026-09-29T18:59:16.887Z"
+  },
+  "assets/image/ep2_bg_outro_20260929185916.png": {
+    "tool": "batch_generate_images",
+    "name": "ep2_bg_outro",
+    "prompt": "深色抽象插画：无数细小的发光概率光点从四面八方汇聚，凝聚成中央一颗明亮但不透明的晶体核心，象征汇聚成智能；核心周围环绕着一层极淡的薄雾，雾的轮廓隐约像一个问号形状。冷青色主调，深蓝近黑背景，画面中部与上方保持大面积暗部，便于叠加文字。电影感打光，浅景深，细腻胶片颗粒，高级科技纪录片收尾画面。不要任何文字、字母、数字、水印。",
+    "cdnUrl": "https://tapcode-sce.spark.xd.com/tapcode-images/2edc35e4-7cbe-4824-9b7e-4786e0a33a7b.png",
+    "previewUrl": "https://tapcode-sce.spark.xd.com/tapcode-images/2edc35e4-7cbe-4824-9b7e-4786e0a33a7b.png",
+    "localPath": "assets/image/ep2_bg_outro_20260929185916.png",
+    "createdAt": "2026-09-29T18:59:16.887Z"
+  }
+}
