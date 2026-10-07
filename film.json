@@ -1,0 +1,28 @@
+{
+  "id": "sample-360",
+  "fps": 30,
+  "size": [1920, 1080],
+  "duration": 3.6,
+  "quality": { "supersample": 2, "motionBlurSamples": 10, "shutter": 0.5, "bloom": 0.55, "bloomThreshold": 0.68,
+               "chromatic": 0.32, "grain": 0.028, "vignette": 0.5, "exposure": 1.02, "saturation": 1.05 },
+  "style": {
+    "bg0": "#04060d", "bg1": "#0a1322", "bg2": "#122036",
+    "fg": "#eef4ff", "muted": "#8ea6c8", "accent": "#5ec8ff", "accent2": "#7cf3c0", "warm": "#ffb347",
+    "font": "'Microsoft YaHei','PingFang SC','Noto Sans CJK SC',sans-serif"
+  },
+  "captions": [ { "start": 0.3, "end": 3.6, "text": "注意力机制到底在算什么" } ],
+  "shots": [
+    { "id": "s1", "start": 0.0, "end": 1.2, "template": "title",
+      "props": { "text": "注意力机制", "sub": "ATTENTION IS ALL YOU NEED", "index": "01" },
+      "look": { "bg1": "#0a1322", "bg2": "#122036", "grid": 150, "tilt": 0, "blobWarm": 0.13, "push": 0.045, "flash": 0.10,
+                "grade": { "exposure": 1.02, "saturation": 1.05, "tint": [1.0, 1.0, 1.0] } } },
+    { "id": "s2", "start": 1.2, "end": 2.4, "template": "bars",
+      "props": { "title": "权重分布", "index": "02", "unit": "%", "bars": [["猫", 0.62], ["狗", 0.24], ["车", 0.14]] },
+      "look": { "bg1": "#0b1a26", "bg2": "#17323c", "grid": 176, "tilt": -0.055, "blobWarm": 0.22, "push": 0.038, "flash": 0.26,
+                "grade": { "exposure": 1.05, "saturation": 1.02, "tint": [0.97, 1.03, 1.0] } } },
+    { "id": "s3", "start": 2.4, "end": 3.6, "template": "outro",
+      "props": { "kicker": "结论", "index": "03", "text": "它只是在分配注意力" },
+      "look": { "bg1": "#070f1f", "bg2": "#0d1c33", "grid": 118, "tilt": 0.035, "blobWarm": 0.07, "push": 0.052, "flash": 0.26,
+                "grade": { "exposure": 0.98, "saturation": 1.09, "tint": [0.97, 1.0, 1.07] } } }
+  ]
+}

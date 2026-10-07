@@ -1,0 +1,73 @@
+{
+  "id": "iso-quote",
+  "fps": 30,
+  "size": [
+    1920,
+    1080
+  ],
+  "duration": 1.3,
+  "quality": {
+    "supersample": 1,
+    "motionBlurSamples": 1,
+    "shutter": 0.5,
+    "bloom": 0.4,
+    "bloomThreshold": 0.68,
+    "chromatic": 0.32,
+    "grain": 0,
+    "vignette": 0.5,
+    "exposure": 1.02,
+    "saturation": 1.05
+  },
+  "style": {
+    "bg0": "#04060d",
+    "bg1": "#0a1120",
+    "bg2": "#141f33",
+    "fg": "#eef4ff",
+    "muted": "#8ea6c8",
+    "accent": "#5ec8ff",
+    "accent2": "#7cf3c0",
+    "warm": "#ffb347",
+    "font": "'Microsoft YaHei','PingFang SC','Noto Sans CJK SC',sans-serif"
+  },
+  "captions": [
+    {
+      "start": 0,
+      "end": 1.3,
+      "text": "十二个镜头模板 · 一次跑通"
+    }
+  ],
+  "shots": [
+    {
+      "id": "q",
+      "start": 0,
+      "end": 1.3,
+      "template": "quote",
+      "props": {
+        "index": "07",
+        "lines": [
+          "它只是在分配注意力，",
+          "并不神秘。"
+        ],
+        "attr": "—— 第 03 期结论"
+      },
+      "look": {
+        "bg1": "#0a1120",
+        "bg2": "#141f33",
+        "grid": 200,
+        "tilt": 0.02,
+        "blobWarm": 0.08,
+        "push": 0.045,
+        "flash": 0,
+        "grade": {
+          "exposure": 1.02,
+          "saturation": 1.05,
+          "tint": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  ]
+}
